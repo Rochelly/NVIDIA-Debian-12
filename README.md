@@ -101,6 +101,8 @@ Assine os módulos do kernel NVIDIA com a chave gerada como no seguinte exemplo:
 ```bash
 sudo /usr/src/linux-headers-$(uname -r)/scripts/sign-file sha256 MOK.key MOK.pem /lib/modules/$(uname -r)/updates/dkms/nvidia-current-drm.ko
 ```
+**Importante**
+Ao reinciar a EFI pode pedir a confirmação e a senha anteriormente inserida.
 
 ## 5. Verificando a instalação dos drivers
 
