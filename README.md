@@ -1,4 +1,4 @@
-
+# Guia para Instalação de Drivers NVIDIA no Linux
 
 
 Este guia ajudará você a verificar se seu hardware possui uma placa gráfica NVIDIA, identificar o driver recomendado e instalar os drivers corretamente. Também abordaremos como lidar com o Secure Boot, que pode impedir o carregamento dos drivers.
