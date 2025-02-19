@@ -9,7 +9,7 @@ Este guia ajudará você a verificar se seu hardware possui uma placa gráfica N
 
 A execução deste tutorial é de inteira responsabilidade do usuário. Certifique-se de entender cada etapa antes de prosseguir. Embora este guia tenha sido testado no Debian 12, ele pode não funcionar corretamente em outros hardwares, distribuições ou versões do sistema. 
 
-**⚠️Recomenda-se fazer backup dos dados importantes antes de iniciar**.
+**⚠️ Recomenda-se fazer backup dos dados importantes antes de iniciar**.
 
 ---
 
