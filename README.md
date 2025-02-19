@@ -73,7 +73,7 @@ sudo apt install mokutil
 sudo mokutil --sb-state
 ```
 
-Se o Secure Boot estiver ativado, você precisará assinar os módulos do kernel manualmente.
+Se o Secure Boot estiver ativado, você precisará desativá-lo ou assinar os módulos do kernel manualmente.
 
 ### 4.2 Gerando chaves para assinar os módulos
 
